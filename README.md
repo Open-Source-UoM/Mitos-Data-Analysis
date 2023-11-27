@@ -29,7 +29,7 @@ O [Μίτος](https://mitos.gov.gr/) είναι μία πλατφόρμα πα�
 
 ### CV (Core Vocabularies)
 
-##### CPSV
+##### CPSV (Core Public Service Vocabulary)
 
 ### Big Data Testing Infrastructure EU
 
